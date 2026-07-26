@@ -1,3 +1,4 @@
 1) OTP
 2) WhatsApp integration / Telegram integration
 3) Authenticator
+4) Email OTP
